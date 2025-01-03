@@ -1,0 +1,5 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,serv00
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,serv00.com
